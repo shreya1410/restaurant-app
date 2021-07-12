@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "email": "shreyaraval415@gmail.com",
+      "name": "shreya",
+      "password": "shreya",
+      "id": 1
+    },
+    {
+      "email": "tansi@gmail.com",
+      "name": "tansi",
+      "password": "tansi",
+      "id": 2
+    },
+    {
+      "email": "riddhi@gmail.com",
+      "name": "riddhi",
+      "password": "riddhi",
+      "id": 3
+    },
+    {
+      "email": "napynoqim@mailinator.com",
+      "name": "Dolor aute aliquip q",
+      "password": "Pa$$w0rd!",
+      "id": 4
+    },
+    {
+      "email": "jigar@gmail.com",
+      "name": "jigar",
+      "password": "jigar",
+      "id": 5
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "havmor",
+      "address": "maninagar",
+      "contact": 12345
+    },
+    {
+      "name": "bagh one",
+      "address": "new maninagar",
+      "contact": "1132432543",
+      "id": 4
+    },
+    {
+      "name": "rasna",
+      "address": "narol",
+      "contact": "123456789",
+      "id": 5
+    }
+  ]
+}
